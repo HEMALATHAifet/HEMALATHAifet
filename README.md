@@ -10,14 +10,8 @@
 - 🌱 Learning **ML, Deep Learning, NLP, and GenAI tools**
 - 💼 Looking for roles in **AI/ML, Data Science, and Python Development**
 - 🧠 Passionate about **building real-world AI solutions**
-- 📫 Reach me at **your.email@example.com**
 
 ---
-
-### 🛠️ Technologies & Tools:
-
----
-
 ### 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hemalatha-a-developer/)
 - [GitHub](https://github.com/HEMALATHAifet)
